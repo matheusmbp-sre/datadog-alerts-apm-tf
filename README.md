@@ -31,13 +31,17 @@ Cada pasta de operador contém:
 
 Os módulos criam os seguintes alertas no Datadog:
 
-- Anomalia de Latência (Latency): Detecta mudanças anormais na latência das requisições (Percentil 75).
+- Anomalia de Latência (Latency): 
+   - Detecta mudanças anormais na latência das requisições (Percentil 75).
 
-- Anomalia Watchdog (Watchdog Anomaly): Detecta eventos incomuns utilizando o monitoramento Watchdog.
+- Anomalia Watchdog (Watchdog Anomaly): 
+   - Detecta eventos incomuns utilizando o monitoramento Watchdog.
 
-- Aumento na Porcentagem de Erros (Increased error percentage): Dispara quando a porcentagem de erros excede o limite crítico configurado.
+- Aumento na Porcentagem de Erros (Increased error percentage): 
+   - Dispara quando a porcentagem de erros excede o limite crítico configurado.
 
-- Aumento no Número de Requisições (Increased number of requests/s): Dispara quando o número de requisições por segundo excede o limite crítico configurado.
+- Aumento no Número de Requisições (Increased number of requests/s): 
+   - Dispara quando o número de requisições por segundo excede o limite crítico configurado.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
