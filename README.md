@@ -55,7 +55,7 @@ Requisitos :
 
 Configurações:
 
-Export as seguintes viáveis de ambiente:
+Export as seguintes variáveis de ambiente:
 
 ```
 $ export DATADOG_API_KEY="<your_api_key>"
