@@ -1,5 +1,5 @@
-environment              = "logs-workshop"
-service_name             = "store-ads"
+environment              = "logs-workshop"   #your-environment
+service_name             = "store-ads"       #your-service_name
 
 notification_channels    = "@example@gmail.com.br"
 error_critical_threshold = 5
