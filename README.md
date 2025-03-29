@@ -81,8 +81,8 @@ $ export DATADOG_APP_KEY="<your_app_key>"
 
 Navegue até o diretório do operador desejado (ex: flask.resquest/) e abra o arquivo (terraform.tfvars) e altere com suas prefências as seguintes variáveis: env, service.name, notification e thresholds para os alertas :
 
-- environment              = "<your-environment>"
-- service_name             = "<your-service.name>"
+- environment              = " <your-environment> "
+- service_name             = " <your-service.name> "
 - notification_channels    = "@example@gmail.com.br"
 - error_critical_threshold = 5
 - error_recovery_threshold = 2
